@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.bg-gold-500 {
+    background-color: #FFD700;
+}
+
+.text-gold-500 {
+    color: #FFD700;
+}
+
+.nav-link:hover {
+    color: #FFD700;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #2E8B57;
+    box-shadow: 0 0 0 3px rgba(46, 139, 87, 0.3);
+}
